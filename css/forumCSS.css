@@ -1,0 +1,43 @@
+/* Baratis forum styles */
+
+
+
+th.table-heading-regular {
+  background: #0069ff;
+  color: white;
+  padding: 5px;
+  /* margin: 0px 1px; */
+  font-weight: normal;
+  font-size: 0.8em;
+  border: 1px solid #fff;
+  }
+div.table-heading-container-regular {
+  padding: 1px 0px;
+  border-bottom: 1px solid #0069ff;
+  }
+table {
+  border-spacing: 0px !important;
+  padding: 1px;
+  }
+.forum-table-container-regular {
+  border: 1px solid #3a3a3a;
+  border-spacing: 1px;
+  }
+td.table-group {
+  background: #eaeaea;
+  padding: 2px;
+  display: block;
+  margin: 1px;
+  width: 107.3%;
+  }
+tr.groupcont {
+  padding: 1px;
+  display: block;
+  width: 100%;
+  }
+td.table-cell-default {
+  background: #CCE2FF;
+  padding: 2px;
+  margin: 1px;
+  display: flex;
+  }
